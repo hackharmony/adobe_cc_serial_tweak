@@ -1,0 +1,6 @@
+[submodule "rapidxml"]
+	path = rapidxml
+	url = https://github.com/timniederhausen/rapidxml
+[submodule "include/rapidxml"]
+	path = include/rapidxml
+	url = https://github.com/timniederhausen/rapidxml
